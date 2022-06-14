@@ -5,7 +5,7 @@
   /* For a screen < 960px, this CSS will be read */
   .container {
     width: 700px;
-    margin: 30px auto;
+    margin: 90px auto;
   }
 }
 
@@ -13,7 +13,7 @@
   /* For a screen < 720px, this CSS will be read */
   .container {
     width: 500px;
-    margin: 40px auto;
+    margin: 70px auto;
   }
 }
 
